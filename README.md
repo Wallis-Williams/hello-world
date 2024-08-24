@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow
+Hi, my name is Wallis. I live in Nashville, TN. 
